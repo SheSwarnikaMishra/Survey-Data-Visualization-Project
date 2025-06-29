@@ -20,7 +20,7 @@ The goal is to uncover patterns in fan behavior, movie preferences, and ranking 
   - Fan status (fan vs. non-fan).
   - Rankings of the six Star Wars movies (1–6).
   - Character favorability ratings.
-- **License**: Provided by FiveThirtyEight under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+- **License**: Provided by FiveThirtyEight 
 
 ---
 
